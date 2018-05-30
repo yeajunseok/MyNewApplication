@@ -25,13 +25,6 @@ public class OostoreActivity extends AppCompatActivity{
             }
         });
 
-        /*Intent intent = getIntent();
-        processIntent(intent);*/
     }
-    /*public void processIntent(Intent intent) {
-        if(intent != null){
-            ArrayList<String> names = (ArrayList<String>) intent.getSerializableExtra("names");
-            Toast.makeText(getApplicationContext(), "전달받은 값 :"+ names.get(0), Toast.LENGTH_LONG).show();
-        }
-    }*/
+
 }
